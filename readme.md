@@ -720,7 +720,7 @@ partiallyAppliedAdds.ap(arg2) // [5, 6, 7, 8]
 
 ## Morphism
 
-A transformation function.
+In Category Theory, Morphism is a transformation function that maps between objects (Types in a programming language). You can think that Morphism is like an edge in Graph Theory.
 
 ### Endomorphism
 
@@ -829,6 +829,9 @@ The third parameter in the reducer (in the above example, `[x, ... xs]`) is kind
 ### Apomorphism
 
 it's the opposite of paramorphism, just as anamorphism is the opposite of catamorphism. Whereas with paramorphism, you combine with access to the accumulator and what has been accumulated, apomorphism lets you `unfold` with the potential to return early.
+
+### refs for Morphism
+[Category-Theory-What-is-a-morphism](https://www.quora.com/Category-Theory-What-is-a-morphism)
 
 ## Setoid
 
